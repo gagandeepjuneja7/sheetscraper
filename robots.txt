@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /thanks.html
+Disallow: /bye.html
+
+Sitemap: https://gagandeepjuneja7.github.io/sheetscraper/sitemap.xml
